@@ -105,7 +105,6 @@ JSON: Full structured data.
 
 
 
-
 Dependencies
 Python 3.10+
 Streamlit
@@ -132,6 +131,7 @@ MIT License © [Rushikesh Kadam]
 Btech-Artificial intelligence and Data Science
 
 Vishwakarma University, Pune
+
 
 
 
