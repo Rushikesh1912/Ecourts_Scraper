@@ -94,17 +94,17 @@ JSON: Full structured data.
 
 ### Screenshots
 
-1. Streamlit Interface:
+**1. Streamlit Interface:**
 
-![Streamlit Interface](screenshots/streamlit_ui.png)
+![Streamlit Interface](https://github.com/Rushikesh1912/Ecourts_Scraper/raw/main/Output%20Screenshots/streamlit_ui.jpg)
 
-2. Fetched Cause List Table in Streamlit:
+**2. Fetched Cause List Table in Streamlit:**
 
-![Fetched Results](screenshots/fetched_results.png)
+![Fetched Results](https://github.com/Rushikesh1912/Ecourts_Scraper/raw/main/Output%20Screenshots/fetched_results.jpg)
 
-3. Generated PDF Sample:
+**3. Generated PDF Sample:**
 
-![Generated PDF](screenshots/sample_pdf.png)
+![Generated PDF](https://github.com/Rushikesh1912/Ecourts_Scraper/raw/main/Output%20Screenshots/sample_pdf.jpg)
 
 
 Dependencies
@@ -131,4 +131,5 @@ CSV generation dynamically adapts to table columns in the eCourts website.
 License
 MIT License © [Rushikesh Kadam]
 Btech-Artificial intelligence and Data Science
+
 Vishwakarma University, Pune
