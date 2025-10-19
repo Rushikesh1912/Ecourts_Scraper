@@ -95,7 +95,7 @@ JSON: Full structured data.
 ## 🖼️ Sample Screenshots
 
 ### 🧪 Streamlit Interface  
-![Streamlit Interface](https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/blob/main/Outputs/streamlit_ui.jpg)
+![Streamlit Interface](https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/main/Outputs/streamlit_ui.jpg)
 
 ### 📊 Fetched Cause List Table in Streamlit  
 ![Fetched Results](https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/main/Outputs/fetched_results.jpg)
@@ -131,6 +131,7 @@ MIT License © [Rushikesh Kadam]
 Btech-Artificial intelligence and Data Science
 
 Vishwakarma University, Pune
+
 
 
 
