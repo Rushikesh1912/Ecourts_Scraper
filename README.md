@@ -95,13 +95,13 @@ JSON: Full structured data.
 ## 🖼️ Sample Screenshots
 
 ### 🧪 Streamlit Interface  
-<img src="https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/main/Output%20Screenshots/streamlit_ui.jpg" width="700"/>
+![Streamlit Interface](https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/main/Output%20Screenshots/streamlit_ui.jpg)
 
 ### 📊 Fetched Cause List Table in Streamlit  
-<img src="https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/main/Output%20Screenshots/fetched_results.jpg" width="700"/>
+![Fetched Results](https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/main/Output%20Screenshots/fetched_results.jpg)
 
 ### 📄 Generated PDF Sample  
-<img src="https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/main/Output%20Screenshots/sample_pdf.jpg" width="700"/>
+![Generated PDF](https://raw.githubusercontent.com/Rushikesh1912/Ecourts_Scraper/main/Output%20Screenshots/sample_pdf.jpg)
 
 
 Dependencies
@@ -130,6 +130,7 @@ MIT License © [Rushikesh Kadam]
 Btech-Artificial intelligence and Data Science
 
 Vishwakarma University, Pune
+
 
 
 
